@@ -1,4 +1,4 @@
- import "./PostCard.css";
+ import "./PostCard1.css";
 
 const PostCard = ({ post }) => {
 
